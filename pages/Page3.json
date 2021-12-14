@@ -1,0 +1,141 @@
+{
+  "unpublishedPage": {
+    "name": "Page3",
+    "slug": "page3",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 822,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 640,
+          "containerStyle": "none",
+          "snapRows": 64,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 46,
+          "minHeight": 650,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 17,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "dv9ci0uv0a",
+              "topRow": 12,
+              "bottomRow": 20,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 1,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "7cb172ylsk"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "widgetNames": [
+          "AudioRecorder1",
+          "MainContainer"
+        ],
+        "validOnPageLoadActions": true,
+        "id": "Page3",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "publishedPage": {
+    "name": "Page3",
+    "slug": "page3",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 822,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 640,
+          "containerStyle": "none",
+          "snapRows": 64,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 46,
+          "minHeight": 650,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 17,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "dv9ci0uv0a",
+              "topRow": 12,
+              "bottomRow": 20,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 1,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "7cb172ylsk"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "widgetNames": [
+          "AudioRecorder1",
+          "MainContainer"
+        ],
+        "validOnPageLoadActions": true,
+        "id": "Page3",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "read:pages",
+    "manage:pages"
+  ],
+  "gitSyncId": "61b8357d9c849c5667846d95_61b836c99c849c5667846daa"
+}
