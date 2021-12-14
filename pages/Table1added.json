@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Table1added",
+    "slug": "table1added",
     "layouts": [
       {
         "viewMode": false,
@@ -342,18 +342,19 @@
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Table1added",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "publishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Table1added",
+    "slug": "table1added",
     "layouts": [
       {
         "viewMode": false,
@@ -694,14 +695,15 @@
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Table1added",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "policies": [],
