@@ -47,11 +47,35 @@
               "iconColor": "white",
               "isDisabled": false,
               "key": "7cb172ylsk"
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder2",
+              "rightColumn": 17,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "g49iey2uyl",
+              "topRow": 22,
+              "bottomRow": 30,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 1,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "9ggfcmcz75"
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "AudioRecorder2",
           "AudioRecorder1",
           "MainContainer"
         ],
@@ -113,11 +137,35 @@
               "iconColor": "white",
               "isDisabled": false,
               "key": "7cb172ylsk"
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder2",
+              "rightColumn": 17,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "g49iey2uyl",
+              "topRow": 22,
+              "bottomRow": 30,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 1,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "9ggfcmcz75"
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "AudioRecorder2",
           "AudioRecorder1",
           "MainContainer"
         ],
