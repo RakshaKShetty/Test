@@ -323,6 +323,29 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 19,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "3l7di3a4b5",
+              "topRow": 40,
+              "bottomRow": 48,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 3,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "zw7c925dnq"
             }
           ]
         },
@@ -339,6 +362,7 @@
         ],
         "widgetNames": [
           "Table2",
+          "AudioRecorder1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
@@ -675,6 +699,29 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 19,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "3l7di3a4b5",
+              "topRow": 40,
+              "bottomRow": 48,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 3,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "zw7c925dnq"
             }
           ]
         },
@@ -691,6 +738,7 @@
         ],
         "widgetNames": [
           "Table2",
+          "AudioRecorder1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
