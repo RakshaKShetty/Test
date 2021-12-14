@@ -329,7 +329,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61b83c249c849c5667846def",
+              "id": "61b8350e9c849c5667846d94",
               "name": "Query1",
               "pluginType": "DB",
               "jsonPathKeys": [],
@@ -682,7 +682,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61b83c249c849c5667846def",
+              "id": "61b8350e9c849c5667846d94",
               "name": "Query1",
               "pluginType": "DB",
               "jsonPathKeys": [],
