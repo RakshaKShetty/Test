@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "Justaddpage no commitand push",
+    "slug": "justaddpage-no-commitand-push",
     "layouts": [
       {
         "viewMode": false,
@@ -30,23 +30,32 @@
               "allowScroll": false,
               "displayName": "Chart",
               "iconSVG": "/static/media/icon.6adbe31e.svg",
-              "topRow": 1,
-              "bottomRow": 33,
+              "topRow": 11,
+              "bottomRow": 43,
               "parentRowSpace": 10,
               "type": "CHART_WIDGET",
               "hideCard": false,
               "chartData": {
-                "v3harc80ze": {
+                "eufidaobl4": {
                   "seriesName": "Sales",
-                  "data": "{{Query1.data.map( (obj) =>{ return  {'x': obj.gender, 'y': obj.id } })}}"
+                  "data": [
+                    {
+                      "x": "Product1",
+                      "y": 20000
+                    },
+                    {
+                      "x": "Product2",
+                      "y": 22000
+                    },
+                    {
+                      "x": "Product3",
+                      "y": 32000
+                    }
+                  ]
                 }
               },
-              "dynamicBindingPathList": [
-                {
-                  "key": "chartData.v3harc80ze.data"
-                }
-              ],
-              "leftColumn": 0,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 9,
               "customFusionChartConfig": {
                 "type": "column2d",
                 "dataSource": {
@@ -72,9 +81,9 @@
                   ]
                 }
               },
-              "key": "hfiuvb1es6",
-              "rightColumn": 24,
-              "widgetId": "042f2lgibw",
+              "key": "zjickff6j2",
+              "rightColumn": 33,
+              "widgetId": "9vujmd6xub",
               "isVisible": true,
               "version": 1,
               "parentId": "0",
@@ -88,34 +97,25 @@
             }
           ]
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "61b83c249c849c5667846df2",
-              "name": "Query1",
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "widgetNames": [
           "MainContainer",
           "Chart1"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "Justaddpage no commitand push",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "publishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "Justaddpage no commitand push",
+    "slug": "justaddpage-no-commitand-push",
     "layouts": [
       {
         "viewMode": false,
@@ -144,23 +144,32 @@
               "allowScroll": false,
               "displayName": "Chart",
               "iconSVG": "/static/media/icon.6adbe31e.svg",
-              "topRow": 1,
-              "bottomRow": 33,
+              "topRow": 11,
+              "bottomRow": 43,
               "parentRowSpace": 10,
               "type": "CHART_WIDGET",
               "hideCard": false,
               "chartData": {
-                "v3harc80ze": {
+                "eufidaobl4": {
                   "seriesName": "Sales",
-                  "data": "{{Query1.data.map( (obj) =>{ return  {'x': obj.gender, 'y': obj.id } })}}"
+                  "data": [
+                    {
+                      "x": "Product1",
+                      "y": 20000
+                    },
+                    {
+                      "x": "Product2",
+                      "y": 22000
+                    },
+                    {
+                      "x": "Product3",
+                      "y": 32000
+                    }
+                  ]
                 }
               },
-              "dynamicBindingPathList": [
-                {
-                  "key": "chartData.v3harc80ze.data"
-                }
-              ],
-              "leftColumn": 0,
+              "parentColumnSpace": 12.65625,
+              "leftColumn": 9,
               "customFusionChartConfig": {
                 "type": "column2d",
                 "dataSource": {
@@ -186,9 +195,9 @@
                   ]
                 }
               },
-              "key": "hfiuvb1es6",
-              "rightColumn": 24,
-              "widgetId": "042f2lgibw",
+              "key": "zjickff6j2",
+              "rightColumn": 33,
+              "widgetId": "9vujmd6xub",
               "isVisible": true,
               "version": 1,
               "parentId": "0",
@@ -202,30 +211,21 @@
             }
           ]
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "61b83c249c849c5667846df2",
-              "name": "Query1",
-              "pluginType": "DB",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "widgetNames": [
           "MainContainer",
           "Chart1"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "Justaddpage no commitand push",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "policies": [],
@@ -233,5 +233,5 @@
     "read:pages",
     "manage:pages"
   ],
-  "gitSyncId": "61b8357d9c849c5667846d95_61b835889c849c5667846d9b"
+  "gitSyncId": "61b832169c849c5667846d86_61b83bfc9c849c5667846ddc"
 }
